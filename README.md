@@ -1,2 +1,2 @@
-![Alt text](./12.png)
-![Alt text](./1234.png)
+![Alt text](./12.jpg)
+![Alt text](./1234.jpg)
